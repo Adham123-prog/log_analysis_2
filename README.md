@@ -74,12 +74,10 @@ This project analyzes Apache access log files using a Bash script to extract mea
 * `log_analysis_report_<timestamp>.txt`: The generated report.
 * `README.md`: Project overview and instructions.
 
-## Deadline
 
-* Submission Deadline: **Saturday, May 10th at 11:59 PM**
 
 ---
 
 ### Author
-
-This project was completed as part of a system analysis and scripting task for improving server log transparency and reliability.
+adham ahmed reda
+2205087
